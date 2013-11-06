@@ -7,11 +7,11 @@ function listCtrl($scope, $http) {
 		$scope.items = data;
 		console.log($scope.items);
 	});
-}
+};
 
 function teamCtrl($scope, $http) {
 	$http({method: 'GET', url: '/team.json'}).success(function(data) {
 		$scope.team = data;
 		console.log($scope.team);
 	});
-}
+};
