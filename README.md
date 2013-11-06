@@ -25,6 +25,8 @@ If you face any technical issues, please file them in the [issues](/issues) tab.
 ___
 
 [Krish Dholakiya](http://krrishd.github.io) - [dholakiyaks@s.dcsdk12.org](mailto:dholakiyaks@s.dcsdk12.org?subject=Question/Comment/Concern%20About%20SBE%20eCommerce)
+
 Chief Technology Officer
+
 TRHS SBE (School-Based Enterprise)
  
