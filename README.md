@@ -8,7 +8,7 @@ In order to utilize this code for your school or organization, simply switch to 
 
 ## To Contribute:
 
-In order to add to or modify this project, it is recommended that you fork thisproject, and any changes that you would like added in, add in a new branch and sumbit a pull request for review.
+In order to add to or modify this project, it is recommended that you fork this project, and any changes that you would like added in, add in a new branch and submit a pull request for review.
 
 ## Technical Details:
 
@@ -17,6 +17,8 @@ In order to add to or modify this project, it is recommended that you fork thisp
 * Javascript - AngularJS MVC, Routing
 * [Ribbon](http://ribbon.co) API
 * Can be hosted anywhere that can host HTML, CSS, and Javascript (so everywhere)
+
+[Licensed under the MIT License](LICENSE.md)
 
 ## Questions, comments, and concerns
 
