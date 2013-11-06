@@ -1,11 +1,13 @@
 @import url('/foundation/css/normalize.css');
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(http://fonts.googleapis.com/css?family=Rock+Salt);
 
 body {
 	font-family: Open Sans, Helvetica, sans-serif;
 	padding:10px;
 	padding-top:75px;
 	background: #FAFAFA;
+	background: url('/assets/images/bg.png');
 }
 
 .h {
@@ -28,6 +30,7 @@ header {
 
 header h1 {
 	display:inline-block;
+	font-family:Rock Salt;
 }
 
 header nav {
