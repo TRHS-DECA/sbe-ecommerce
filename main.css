@@ -5,7 +5,7 @@
 body {
 	font-family: Open Sans, Helvetica, sans-serif;
 	padding:10px;
-	padding-top:75px;
+	padding-top:120px;
 	background: #FAFAFA;
 	background: url('/assets/images/bg.png');
 }
@@ -70,3 +70,31 @@ footer a {
 	border-bottom: 2px solid rgba(0,0,0,.3);
 }
 /* End Footer Styles */
+
+/* Team Styles */
+.officer {
+	padding: 10px;
+	background: rgba(0,0,0,.1);
+	box-shadow: 1px 1px 3px 1px rgba(0,0,0,.5);
+	text-align: center;
+	width: 75%;
+	margin: 0 auto;
+}
+.officerImg {
+	width:75px;
+	height:75px;
+	border-radius:100%;
+	display:inline-block;
+}
+.officerNameTitle {
+	display:inline-block;
+	vertical-align: top;
+	margin-left:15px;
+}
+
+.mailto {
+	color:inherit;
+	text-decoration: none;
+	border-bottom:2px solid rgba(0,0,0,.3);
+}
+/* End Team Styles */

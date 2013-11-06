@@ -1,0 +1,26 @@
+{
+	"a": {
+		"title": "Chief Operations Officer (COO)",
+		"name": "Brenden Davis",
+		"pic": "http://t3.gstatic.com/images?q=tbn:ANd9GcQnABmiHeM_lW5jYXytXqUXSZa7zJHhOsyhFWEWhQucP-BZoKKu",
+		"email": "brendendavis96@gmail.com"
+	},
+	"b": {
+		"title": "Chief Technology Officer (CTO)",
+		"name": "Krish Dholakiya",
+		"pic": "https://lh3.googleusercontent.com/-9zK5ZHs5DRw/AAAAAAAAAAI/AAAAAAAAATo/6IJ_qsB6o7A/photo.jpg?sz=500",
+		"email": "dholakiyaks@s.dcsdk12.org"
+	},
+	"c": {
+		"title": "Chief Promotions Officer (CPO)",
+		"name": "Rachel Deltoro",
+		"pic": "http://placehold.it/500x500/&text=Rachel+Deltoro",
+		"email": "deltororm1@s.dcsdk12.org"
+	},
+	"d": {
+		"title": "Human Resources Manager",
+		"name": "Rebecca Mowery",
+		"pic": "http://placehold.it/500x500/&text=Rebecca+Mowery",
+		"email": "moweryrk@s.dcsdk12.org"
+	}
+}
