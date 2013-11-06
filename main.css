@@ -1,0 +1,69 @@
+@import url('/foundation/css/normalize.css');
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+body {
+	font-family: Open Sans, Helvetica, sans-serif;
+	padding:10px;
+	padding-top:75px;
+	background: #FAFAFA;
+}
+
+.h {
+	color:red;
+}
+/*Header Styles*/
+
+header {
+	position: fixed;
+	top: 0px;
+	left: -50%;
+	margin-left: 50%;	
+	width: 100%;
+	background: rgba(46, 204, 113,1.0);
+	font-size: .75em;
+	padding: 5px;
+	color: white;
+	text-align: center;
+}
+
+header h1 {
+	display:inline-block;
+}
+
+header nav {
+	display:inline-block;
+	/*position: absolute;
+	top: 20px;
+	right: 20px;*/
+	margin:20px;
+}
+
+header nav a {
+	display: inline-block;
+	padding: 10px;
+	color: white;
+	text-decoration: none;
+	background: rgba(0,0,0,.2);
+	border-radius: 5px;
+	border-bottom: 2px solid rgba(0,0,0,.4)
+}
+
+/* End Header Styles*/
+/* Begin Footer Styles */
+footer {
+	position: fixed;
+	bottom: 0;
+	left: -50%;
+	margin-left: 50%;
+	width: 100%;
+	text-align: center;
+	background: rgba(46, 204, 113,1.0);
+	color: white;
+}
+
+footer a {
+	color: inherit;
+	text-decoration: none;
+	border-bottom: 2px solid rgba(0,0,0,.3);
+}
+/* End Footer Styles */
